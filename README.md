@@ -3,7 +3,7 @@
 [![Aptos Art Museum Logo](https://i.hizliresim.com/mhqdx0v.png "Aptos Art Museum Logo")](http://aptosartmuseum.online "Aptos Art Museum Logo")
 
 
-# APTOS ART MUSEUM  
+# APTOS ART MUSEUM  - devLog
 
 ###### 12 Haziran - 16 Haziran:
 
