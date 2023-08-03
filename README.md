@@ -58,7 +58,7 @@
 - [OYUN] Gözden geçirme ve iyileştirme çalışmaları.
 
 ###### 31 Temmuz - Günümüz:
-- Devam eden hata düzeltme ve iyileştirme çalışmaları.
-- [OYUN] Sürekli olarak hata düzeltme ve iyileştirme çalışmaları.
+- Hata düzeltme ve iyileştirme çalışmaları.
+- [OYUN] Hata düzeltme ve iyileştirme çalışmaları.
 
 
