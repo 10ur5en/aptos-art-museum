@@ -28,8 +28,7 @@
 ###### 26 Haziran - 30 Haziran:
 - Ekip tatil sürecindeydi.
 
-######3 Temmuz - 7 Temmuz:
-
+###### 3 Temmuz - 7 Temmuz:
 - Web sitesinin gösterim katmanı (front-end) tamamlandı.
 - Endpoint servis API'ları üzerinde çalışmalara başlandı.
 - Sistemdeki NFT'leri listeleyen ve yönetilebilen bir yönetici sayfası oluşturuldu.
